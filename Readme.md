@@ -4,8 +4,8 @@
 
 Voting allows accounts to register and vote for arbitrary choices.
 Here a choice is any byte slice and anyone is allowed to register to vote.
-This example has a configurable registration period defined by the global state RegBegin and
-RegEnd which restrict when accounts can register to vote.
+This example has a configurable registration period defined by the global state `RegBegin` and
+`RegEnd` which restrict when accounts can register to vote.
 There is also a separate configurable voting period defined by the global state VotingBegin and VotingEnd which
 restrict when voting can take place.
 An account must register in order to vote. Accounts cannot vote more than once, and if an account opts out of
