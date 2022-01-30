@@ -8,7 +8,7 @@ from algosdk.v2client import algod
 from pyteal import compileTeal, Mode
 from contract import approval_program, clear_state_program
 
-# Enter the genrated Creator and User mnemonic
+# Enter the generated Creator and User mnemonic
 creator_mnemonic = "" 
 user_mnemonic = ""
 

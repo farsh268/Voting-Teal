@@ -27,11 +27,11 @@ and the winner is the candidate with the highest number of votes.
 
 ### Read broadly on the Solution and Description in my Article
 
-- To be Updated soon
+- https://hashnode.com/post/pyteal-voting-smart-contract-ckz1gzudw0uqq9js1cjplbnzj
 
 ### Run
 
-- Run the python create=account.py contract in your shell
+- Run the python create-account.py contract in your shell
 
 copy the generated mnemonic and paste where necessary
 
